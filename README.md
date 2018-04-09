@@ -1,6 +1,7 @@
 # MEAN Seed
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4. and powered by Express
+A MEAN seed powered by Mongodb, Express, Angular(>2), Node.js
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
 ## Build
 
